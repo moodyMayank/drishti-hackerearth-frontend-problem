@@ -1,0 +1,48 @@
+{
+  "stations": [
+    {
+      "id": "1",
+      "stationName": "OVEN1"
+    },
+    {
+      "id": "2",
+      "stationName": "OVEN2"
+    },
+    {
+      "id": "3",
+      "stationName": "DISPATCH1"
+    },
+    {
+      "id": "4",
+      "stationName": "DISPATCH2"
+    },
+    {
+      "id": "5",
+      "stationName": "SALADBAY1"
+    },
+    {
+      "id": "6",
+      "stationName": "SALADBAY2"
+    },
+    {
+      "id": "7",
+      "stationName": "GRILL1"
+    },
+    {
+      "id": "8",
+      "stationName": "PREP1"
+    },
+    {
+      "id": "8",
+      "stationName": "PREP2"
+    },
+    {
+      "id": "8",
+      "stationName": "BOILER1"
+    },
+    {
+      "id": "8",
+      "stationName": "DEEPFRIER"
+    }
+  ]
+}

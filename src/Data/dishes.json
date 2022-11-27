@@ -1,0 +1,36 @@
+{
+  "dishes": [
+    {
+      "id": "1",
+      "dishName": "FRIES"
+    },
+    {
+      "id": "2",
+      "dishName": "EGGS"
+    },
+    {
+      "id": "3",
+      "dishName": "LASAGNA"
+    },
+    {
+      "id": "4",
+      "dishName": "PIZZA"
+    },
+    {
+      "id": "5",
+      "dishName": "BURGER"
+    },
+    {
+      "id": "6",
+      "dishName": "CAKE"
+    },
+    {
+      "id": "7",
+      "dishName": "EGG"
+    },
+    {
+      "id": "8",
+      "dishName": "SALAD"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "actions": [
+    {
+      "id": "1",
+      "actionType": "Grill"
+    },
+    {
+      "id": "2",
+      "actionType": "Toss"
+    },
+    {
+      "id": "3",
+      "actionType": "Prep"
+    },
+    {
+      "id": "4",
+      "actionType": "Bake"
+    },
+    {
+      "id": "5",
+      "actionType": "Dress"
+    },
+    {
+      "id": "6",
+      "actionType": "Presentation"
+    },
+    {
+      "id": "7",
+      "actionType": "Boil"
+    },
+    {
+      "id": "8",
+      "actionType": "Fry"
+    }
+  ]
+}
